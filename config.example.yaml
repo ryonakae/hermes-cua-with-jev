@@ -1,0 +1,6 @@
+# Credentials belong in the active Hermes profile's .env, not here.
+# TYPESAFE_API_KEY=...  (do not paste a real value into this example)
+model: jev-latest
+driver_binary: cua-driver
+# Optional: attach to the operator's existing daemon, never change its permissions.
+driver_socket: null

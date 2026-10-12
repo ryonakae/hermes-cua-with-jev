@@ -1,0 +1,4 @@
+name: hermes-cua-with-jev
+version: 0.1.0
+kind: standalone
+description: Bounded browser and native CUA with Jev candidate selection.
